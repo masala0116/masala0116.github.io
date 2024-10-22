@@ -1,0 +1,24 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/yu-long-chang-791a8458/"
+
+[social.params]
+icon = "linkedin-1-svgrepo-com"
+
+[[social]]
+identifier = "gmail"
+name = "Gmail"
+url = "mailto:masala0116@gmail.com"
+
+[social.params]
+icon = "gmail-svgrepo-com"

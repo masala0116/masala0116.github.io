@@ -6,7 +6,7 @@ favicon = "favicon.png"
 
 [footer]
 since = 2024
-customText = "footer test"
+customText = ""
 
 [dateFormat]
 published = "Oct 19, 2024"
@@ -14,7 +14,7 @@ lastUpdated = "Oct 19, 2024 15:04 MST"
 
 [sidebar]
 emoji = "☺️"
-subtitle = "Software Engineer/ Father/ Cat lover"
+subtitle = "Full time Software Engineer/ Father/ CatLover"
 
 [sidebar.avatar]
 enabled = false

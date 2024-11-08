@@ -1,10 +1,10 @@
 ---
 title: About
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+# links:
+#   - title: GitHub
+#     description: GitHub is the world's largest software development platform.
+#     website: https://github.com
+#     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
@@ -13,21 +13,8 @@ menu:
 
 comments: false
 ---
+As a full-stack developer, I find immense satisfaction in crafting elegant and functional web applications. The thrill of turning lines of code into tangible experiences is a constant source of inspiration.
 
-To use this feature, add `links` section to frontmatter.
+Beyond my professional pursuits, I'm a devoted father. The joy of raising a family and witnessing their growth is truly heartwarming. I cherish the moments we share, whether it's a simple conversation or a shared hobby.
 
-This page's frontmatter:
-<!-- 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-``` -->
-
-`image` field accepts both local and external images.
+And then, there are my feline companions. Their playful antics and unconditional love bring a unique kind of joy to my life. Cuddling with a cat after a long day of work is the ultimate relaxation.
